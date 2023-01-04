@@ -1,0 +1,24 @@
+* {
+  margin:0;
+  padding:0;
+}
+.header h1 {
+  color: darkslategray;
+
+}
+.main-container{
+  background-image: linear-gradient(to right, #f1b1b1 , #82e6e8);
+  width:100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-wrapper{
+  background-color:green;
+  min-width: 450px;
+  min-height: 650px;
+  padding:30px;
+  box-sizing: border-box;
+  
+}
